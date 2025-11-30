@@ -1,0 +1,19 @@
+{
+  "default_list": [
+    "AAPL", "MSFT", "GOOGL", "GOOG", "AMZN", "NVDA", "META", "TSLA", "NFLX", "AMD",
+    "INTC", "QCOM", "AVGO", "ADBE", "CRM", "CSCO", "ORCL", "IBM", "TXN", "MU",
+    "AMAT", "LRCX", "KLAC", "TSM", "SHOP", "SQ", "PYPL", "COIN", "PLTR", "SNOW",
+    "UBER", "LYFT", "ABNB", "BKNG", "MAR", "DAL", "UAL", "LUV", "CCL", "RCL",
+    "WMT", "TGT", "COST", "HD", "LOW", "MCD", "SBUX", "YUM", "CMG", "KO",
+    "PEP", "NKE", "ADDYY", "LULU", "PTON", "DIS", "WBD", "SONY", "ROKU", "VZ",
+    "T", "TMUS", "V", "MA", "AXP", "JPM", "BAC", "WFC", "C", "GS",
+    "MS", "BLK", "SCHW", "TD", "SPGI", "ICE", "BRK-B", "BRK-A", "UNH", "PFE",
+    "JNJ", "LLY", "MRK", "BMY", "AMGN", "GILD", "ISRG", "CVS", "CI", "HUM",
+    "XOM", "CVX", "COP", "OXY", "EOG", "SLB", "HAL", "PSX", "VLO", "SHEL",
+    "BP", "ENB", "NEE", "DUK", "SO", "DTE", "AEP", "EXC", "ED", "XEL",
+    "CAT", "DE", "GE", "HON", "MMM", "BA", "LMT", "NOC", "RTX", "GD",
+    "FORD", "GM", "F", "TM", "HMC", "RIVN", "LCID", "FSLR", "RUN", "ENPH",
+    "TTD", "MDB", "ZS", "OKTA", "DDOG", "NET", "CRWD", "PANW", "FSLY", "DOCU",
+    "BTC-USD", "ETH-USD", "QQQ", "SPY", "DIA", "IWM", "VTI", "VOO", "ARKK", "SMH"
+  ]
+}
